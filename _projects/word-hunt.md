@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Norton
+description: A (WIP) delta robot to play GamePidgeon Word Hunt on my phone 
+img:
+importance: 99
+category: temp
 ---
 
 Every project has a beautiful feature showcase page.
